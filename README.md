@@ -1,69 +1,79 @@
+<!--
+  Halo! Ini adalah profil GitHub publik Wildan Obit Waluyo.
+  Dibuat untuk menampilkan proyek, nilai, dan perjalanan belajarku di dunia teknologi.
+-->
+
+<h1 align="center">👋 Hi, I'm Wildan Obit Waluyo</h1>
+<h3 align="center">🎓 B.S. in Informatics Engineering (GPA: 3.47) | 📱 Mobile & Web Developer | 🛠️ Problem Solver</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&lines=Hey+%F0%9F%91%8B%2C+Saya+Wildan+Obit+Waluyo!;Full-Stack+Developer+%F0%9F%87%AE%D0%81;Building+Awesome+Apps+with+Code;Open+to+Opportunities+%26+Collaborations!" alt="Typing SVG" />
+  <em>“Technology should serve people — not the other way around.”</em>
+</p>
+
+---
+
+### 💼 About Me
+- 🎓 **Lulusan Teknik Informatika** – Universitas Muhammadiyah Tangerang (Agustus 2025)  
+- 📱 Pembuat aplikasi **[Codingin](https://github.com/Wildan666/codingin)** – belajar coding **tanpa komputer**, hanya modal HP  
+- 🌐 Pernah bantu **UMKM lokal di Tangerang** membuat website promosi produk  
+- 🏘️ Pernah jadi **Ketua KKN** di Kelurahan Parung Serab (2024)  
+- 🎂 Lahir di Tangerang, 22 Mei 2003  
+- 📩 Email: [wildanobit22@gmail.com](mailto:wildanobit22@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-000000?logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|--------|-------------|
+| **[Codingin](https://github.com/Wildan666/codingin)** | Aplikasi mobile untuk belajar coding hanya lewat HP — tanpa PC! |
+| **[Warehouse Astro](https://github.com/Wildan666/warehouse_astro)** | Sistem manajemen gudang berbasis PHP + MySQL, dilengkapi *surat jalan* dan role-based dashboard (Admin, Manager, SPV, Driver). |
+| **[UMKM Website](https://github.com/Wildan666/umkm-web)** | Website sederhana untuk UMKM lokal: katalog produk, kontak, dan profil usaha. |
+| **[Driver Expense Tracker](https://github.com/Wildan666/driver-tracker)** | Aplikasi internal untuk catat pengeluaran e-money & parkir agar **adil dan transparan** antar driver. |
+
+> 🔹 Semua proyek mencerminkan prinsipku: **efisien, adil, dan berdokumentasi lengkap**.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wildan666&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wildan666&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- React Compiler & SWC optimization  
+- UML modeling (Use Case, Sequence, Activity Diagrams)  
+- Secure authentication with PHPMailer & Gmail App Passwords  
+- Text-to-video generation with local AI models
+
+---
+
+### 📬 Let's Connect!
+<p>
+  <a href="mailto:wildanobit22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Wildan666">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
 </p>
 
-<div align="center">
-
-  <!-- Snake Contribution with Dark/Light Mode Support -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/[USERNAME_KAMU]/[USERNAME_KAMU]/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/[USERNAME_KAMU]/[USERNAME_KAMU]/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/[USERNAME_KAMU]/[USERNAME_KAMU]/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_KAMU]&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/[USERNAME_KAMU]?label=Followers&style=flat-square&color=blue" alt="followers" />
-
-</div>
-
-<h1 align="center">🔥 Wildan Obit Waluyo 🔥</h1>
-<h3 align="center">Passionate Full-Stack Developer dari Indonesia 🇮🇩 | Suka bikin aplikasi real-world & eksplor tech baru</h3>
-
-<div align="center">
-
-- 🔭 Saat ini sedang kerjain **[Nama proyek kamu, misal: Web App dengan Next.js atau Portfolio Pribadi]**
-- 🌱 Sedang belajar **Next.js, TypeScript, Docker, dan Cloud**
-- 👯 Siap kolaborasi di **Open Source atau Project Seru**
-- 💬 Tanya saya soal **React, Node.js, Laravel, atau Tips Cari Kerja Tech**
-- 📫 Hubungi: **wildanobit22@gmail.com**
-- ⚡ Fun fact: **Ngoding malam sambil denger lo-fi adalah mood booster terbaik! ☕**
-
-</div>
-
-### 🛠 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,php,mysql,postgres,git,docker,aws,vercel,tailwind,prisma,figma,vscode&perline=12" />
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=dracula" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_KAMU]&theme=dracula" alt="streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=[USERNAME_KAMU]&theme=dracula&no-frame=true&margin-w=15&row=1" alt="trophy" />
-
-</div>
-
-### 🌐 Connect with Me
-<div align="center">
-  <a href="mailto:wildanobit22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/[linkedin-kamu]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[twitter-kamu]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/[ig-kamu]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
-<h3 align="center">Thanks for visiting my profile! Keep coding & stay awesome 🚀</h3>
+> *"Dari Tangerang, untuk dunia — dengan kode yang jujur dan solusi yang manusiawi."*
