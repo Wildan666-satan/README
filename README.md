@@ -41,7 +41,7 @@
 | Project | Description |
 |--------|-------------|
 | **[Codingin](https://github.com/Wildan666/codingin)** | Aplikasi mobile untuk belajar coding hanya lewat HP — tanpa PC! |
-| **[Warehouse Astro](https://github.com/Wildan666/warehouse_astro)** | Sistem manajemen gudang berbasis PHP + MySQL, dilengkapi *surat jalan* dan role-based dashboard (Admin, Manager, SPV, Driver). |
+| **[Warehouse](https://github.com/Wildan666/warehouse)** | Sistem manajemen gudang berbasis PHP + MySQL, dilengkapi *surat jalan* dan role-based dashboard (Admin, Manager, SPV, Driver). |
 | **[UMKM Website](https://github.com/Wildan666/umkm-web)** | Website sederhana untuk UMKM lokal: katalog produk, kontak, dan profil usaha. |
 | **[Driver Expense Tracker](https://github.com/Wildan666/driver-tracker)** | Aplikasi internal untuk catat pengeluaran e-money & parkir agar **adil dan transparan** antar driver. |
 
